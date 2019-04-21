@@ -1,4 +1,4 @@
-function ConvertTo-HTMLFromMarkdown {
+﻿function ConvertTo-HTMLFromMarkdown {
 
 # Ref: https://github.com/clymb3r/PowerShell/blob/master/Invoke-NinjaCopy/Invoke-NinjaCopy.ps1
 # Ref: https://qiita.com/Kosen-amai/items/1f36ce59a768e7f9e869
