@@ -10,7 +10,9 @@ function ConvertTo-HTMLFromMarkdown {
   )
  
   # インプット確認
-  if (-not $MdFile) {
+  if ($MdFile) {
+    
+  } else {
     return "Please Input Markdown."
   }
 
